@@ -19,7 +19,7 @@ useEffect(()=>{
 },[productId])
   return (
     <>
-      <Link className="btn btn-light my-3" to="/">
+      <Link className="btn btn-dark my-3" to="/">
         Go Back
       </Link>
       <Row>

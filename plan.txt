@@ -18,3 +18,5 @@
 ->installed nodemon and concurrently(to start both bend and fend)
 ->installed Dotenv
 ->installed axios to fetch data of products and product from backend data(product.js)
+---->setup Epark project on mongodb atlas and created collection EparkByBharat and then copy its url and ---->pasted in MongoDb compass and connected to the node js db.js
+
