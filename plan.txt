@@ -1,0 +1,17 @@
+#day 1
+->set up react app
+->initize git repo
+->npm i react-bootstrap bootstrap react-i (for react-bootstrap and bootstrap)
+->created header and footer 
+->cretaed product.js (data)
+->product.jsx in component and implement it in HomeScreen.jsx
+-> npm i react-router-dom
+->npm i react-router-bootstrap (linkContainer in place of a href)
+->used Outlet
+->created Rating.jsx (imported stars from react icon and logic)
+
+#day2
+-> creates productScreen for single detailed product
+->set up backend npm init
+->installed express and changed module from commonjs
+->created server and routes using express
