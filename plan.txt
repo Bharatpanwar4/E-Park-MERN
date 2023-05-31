@@ -15,3 +15,6 @@
 ->set up backend npm init
 ->installed express and changed module from commonjs
 ->created server and routes using express
+->installed nodemon and concurrently(to start both bend and fend)
+->installed Dotenv
+->installed axios to fetch data of products and product from backend data(product.js)
