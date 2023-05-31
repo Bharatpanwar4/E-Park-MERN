@@ -20,3 +20,8 @@
 ->installed axios to fetch data of products and product from backend data(product.js)
 ---->setup Epark project on mongodb atlas and created collection EparkByBharat and then copy its url and ---->pasted in MongoDb compass and connected to the node js db.js
 
+#day3
+->created models folder in backend 
+->created Schema and models for product,user and order
+->created product and user samples in files in data folder
+->used npm i bcryptjs to hash password(it will show hashed password in database)
