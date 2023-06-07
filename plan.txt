@@ -25,3 +25,11 @@
 ->created Schema and models for product,user and order
 ->created product and user samples in files in data folder
 ->used npm i bcryptjs to hash password(it will show hashed password in database)
+
+#day4
+->installed colors to color terminal
+->insert data into database(mongodb) through seeder js
+
+#day5
+->used express routers and dislplay data from backend to HomeScreen
+->used custum middleware asyncHandler (used to solve try/catch in each)
