@@ -33,3 +33,6 @@
 #day5
 ->used express routers and dislplay data from backend to HomeScreen
 ->used custum middleware asyncHandler (used to solve try/catch in each)
+
+#day6
+-> created errorHandler middleware file to show errror for single and multiple products 
