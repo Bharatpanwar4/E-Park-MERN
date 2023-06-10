@@ -41,4 +41,11 @@
 -> created controller file where getProducts and getProductById function import to route and 
 make code cleaner
 ->npm i @reduxjs/toolkit react-redux == install redux toolkit for state management
--> create constants file and apislice file to fetchapi
+-> create constants file and apislice(parent) file to fetchapi
+
+#day8
+-> created productsapislice file which is used to fetch data instead of axios in homescreen
+-> created getProductDetails() func which is used to fetch data instead of axios for 
+
+#day9
+-> created loader and message error component and used in homescreen and productScreen instead of loading heading and error message
