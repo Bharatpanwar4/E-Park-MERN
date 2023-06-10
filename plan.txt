@@ -36,3 +36,9 @@
 
 #day6
 -> created errorHandler middleware file to show errror for single and multiple products 
+
+#day7
+-> created controller file where getProducts and getProductById function import to route and 
+make code cleaner
+->npm i @reduxjs/toolkit react-redux == install redux toolkit for state management
+-> create constants file and apislice file to fetchapi
