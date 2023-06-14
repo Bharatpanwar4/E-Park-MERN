@@ -52,3 +52,4 @@ make code cleaner
 
 #day10
 -> created cartslice file which is used to fetch data instead of axios in homescreen
+->make addtocart fuctions and item,shipping,taxprice
