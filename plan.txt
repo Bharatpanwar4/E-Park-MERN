@@ -49,3 +49,6 @@ make code cleaner
 
 #day9
 -> created loader and message error component and used in homescreen and productScreen instead of loading heading and error message
+
+#day10
+-> created cartslice file which is used to fetch data instead of axios in homescreen

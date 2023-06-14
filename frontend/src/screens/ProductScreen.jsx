@@ -15,7 +15,6 @@ const ProductScreen = () => {
       <Link className="btn btn-dark my-3" to="/">
         Go Back
       </Link>
-      <Message variant='danger'>hello</Message>
       {isLoading ? (
         <Loader/>
       ) : error ? (
